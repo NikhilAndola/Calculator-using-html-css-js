@@ -1,1 +1,37 @@
-pika pika
+.container{
+    text-align: center;
+    margin-top: 20px;
+}
+
+table{
+    margin: auto;
+}
+
+input{
+    font-size: 34px;
+    border: 4px solid rgb(9, 27, 83);
+    border-radius: 18px;
+    height: 48px;
+}
+
+button{
+        font-size: 33px;
+        background: #c6bec1;
+        width: 88px;
+        height: 70px;
+        border-radius: 20px;
+        padding: 1 0px;
+}
+
+.calculator{
+    display: inline-block; 
+    background-color: #ed97f7;
+    padding: 23px;
+    border-radius: 50px;
+    border: 5px solid #113b3b;  
+}
+
+h1{
+    font-size: 32px;
+    font-family:'Courier New', Courier, monospace;
+}
